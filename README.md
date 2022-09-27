@@ -1,0 +1,1 @@
+# vue-pinia-mini-project
